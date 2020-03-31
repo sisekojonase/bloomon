@@ -1,0 +1,315 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav img{
+    height: 80px;
+    width:80px ;
+    float: right;
+    padding-right: 50%;
+}
+
+.nav-left ul{
+    list-style: none;
+    padding-top: 30px;
+    padding-left: 150px;
+    
+}
+
+.nav-left ul li{
+    display: inline;
+}
+
+.nav-left ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+}
+/* header ends */
+
+/* main starts */
+
+.background{
+    background-image: url(../images/the1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+    width: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.content{
+    padding-left: 150px;
+    padding-top: 400px;
+}
+.content h3{
+    font-size: 40px;
+}
+
+#how{
+    background-color: rgb(68, 66, 66);
+    border: rgb(68, 66, 66);
+    color: white;
+    height: 50px;
+    width: 200px;
+}
+
+.house{
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 15px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+/* steps start here */
+
+.steps{
+    padding-top: 30px;
+    display: grid;
+}
+
+.step-1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.three-flowers{
+    background: url(../images/nice.png);
+    background-size: cover;
+    background-position: center;
+    /* width: 800px; */
+    height: 600px;
+}
+
+.one{
+    background-color:whitesmoke;
+    padding-right: 100px;
+    padding-top:  100px;
+    padding-left: 200px;
+}
+
+#call{
+    background-color: rgb(68, 66, 66);
+    border: rgb(68, 66, 66);
+    color: white;
+    height: 20px;
+}
+
+.step-2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.two{
+    background-color:whitesmoke;
+    padding-right: 100px;
+    padding-top:  100px;
+    padding-left: 200px;
+}
+
+
+.pic{
+    float: right;
+    background: url(../images/use-twice.jpg);
+    background-size: cover;
+    background-position: center;
+    /* width: 800px; */
+    height: 600px;
+}
+
+
+#call{
+    background-color: rgb(68, 66, 66);
+    border: rgb(68, 66, 66);
+    color: white;
+    height: 20px;
+}
+
+.step-3{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.flower-man{
+    background: url(../images/beautiful.jpg);
+    background-size: cover;
+    background-position: center;
+    /* width: 800px; */
+    height: 600px;
+}
+
+.three{
+    background-color:whitesmoke;
+    padding-right: 100px;
+    padding-top:  100px;
+    padding-left: 200px;
+}
+
+#call{
+    background-color: rgb(68, 66, 66);
+    border: rgb(68, 66, 66);
+    color: white;
+    height: 20px;
+}
+/* main ends */
+
+/* section starts */
+
+.thirdpart{
+    padding-top: 30px ;
+}
+
+.bloom-car img{
+    height: 700px;
+    width: 800px ;
+    padding-left: 150px;
+}
+
+.b-c{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.paragraph-1{
+    padding-top: 210px;
+}
+
+.paragraph-1 p{
+    padding-left: 100px;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+.two-pics{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-right: 300px;
+}
+
+.pic-1 img{
+    height: 300px;
+    width: 300px;
+    /* padding-left: 300px; */
+}
+
+.pic-2 img{
+    height: 300px;
+    width: 300px;
+    padding-left: -300px;
+}
+
+.b-c2{
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.paragraph-2{
+    padding-left: 300px;
+    
+}
+#b-t{
+    height: 300px;
+    width: 650px;
+    background: #808080;
+    color: #ffffff;
+}
+
+.threeand4-pic{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-right: 300px;
+
+}
+
+
+.pic-3 img{
+    height: 300px;
+    width: 320px;
+}
+
+.pic-4 img{
+    height: 300px;
+    width: 300px;
+    /* padding-left: -300px; */
+}
+
+.b-c3{
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.pic-5and6{
+    display: grid; 
+    grid-template-columns: 50% 50%;
+    padding-left: 300px;
+}
+
+#pic-6{
+    height: 300px;
+    width: 300px;
+}
+
+.pic-7{
+    height: 300px;
+    width: 700px;
+}
+
+.lets-get-started{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.lets-get-started button{
+    font-size: 40px;
+    width: 1400px;
+    height: 100px;
+    background: grey;
+    color: #ffffff;
+}
+/* section ends here */
+
+/* footer starts */
+
+.lastpart{
+    padding-top: 30px;
+    background: #000000;
+}
+
+.nv{
+    display: grid;
+}
+
+.nv ul{
+    list-style: none;
+    text-align: center;
+}
+
+.nv ul li{
+    display: inline;
+}
+
+.nv ul li a{
+    text-decoration: none;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.copyright p{
+    font-size: 20px;
+    background: #ffffff;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
